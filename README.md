@@ -1,2 +1,1 @@
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niforru&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niforru&show_icons=true&theme=dark)](https://github.com/niforru/github-readme-stats)
